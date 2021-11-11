@@ -1,8 +1,44 @@
 html {
     background-color: black;
-    font-size: 22px;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
 }
 
 body {
     text-align: center;
+    width: 1300px;
+    margin: 2.0rem auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 2.0rem;
+}
+
+h2 {
+    font-size: 2.1rem;
+    font-weight: 300;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    color: gray;
+    font-size: 1.05rem;
+    margin-bottom: 1.0rem;
+}
+
+a {
+    color: aquamarine;
+    font-size: 0.8rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto 1.25rem;
+}
+
+footer {
+    text-align: right;
 }
